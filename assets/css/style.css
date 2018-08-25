@@ -1,0 +1,52 @@
+body {
+    text-align: center;
+    background-color: #000;
+    color: #eee;
+    text-emphasis-color: red;
+}
+header {
+    font-family: 'Anton', sans-serif;
+    font-size: 65px;
+    margin-top: 20px;
+}
+h2 {
+    font-family: 'Anton', sans-serif;
+    font-size: 65px;
+    margin-top: 20px;
+}
+button {
+    padding: 10px;
+    background-color:red;
+    border: none;
+    color:#eee;
+    font-size: 35px;
+
+}
+div {
+    margin: 10px;
+    padding: 15px;
+}
+#wins {
+    font-family: 'Anton', sans-serif;
+    font-size: 30px;
+    padding: 10px;
+    letter-spacing: 5px;
+}
+#guesses {
+    font-family: 'Anton', sans-serif;
+    font-size: 30px;
+    padding: 10px;
+    letter-spacing: 10px;
+}
+#losses{
+    font-family: 'Anton', sans-serif;
+    font-size: 30px;
+    padding: 10px;
+    letter-spacing: 5px;
+}
+#guesses-left {
+    font-family: 'Anton', sans-serif;
+    font-size: 30px;
+    padding: 10px;
+    letter-spacing: 5px;
+}
