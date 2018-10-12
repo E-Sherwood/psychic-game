@@ -64,3 +64,6 @@ document.ready; {
         remainingText.textContent = "you have " + remainingCounter + " guesses left.";
     }
 }
+document.getElementById("new").addEventListener("click", function(){
+    newGame();
+});
